@@ -30,7 +30,7 @@ Before running the application, ensure that you have the following installed on 
 Clone the Repository  
 
 ```bash
-git clone https://github.com/bharat-musale/Order-Management-Module.git
+git clone https://github.com/bharat-musale/Order-Management-Module-main.git
 ```  
 
 Navigate to the Project Directory  
